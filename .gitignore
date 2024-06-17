@@ -18,3 +18,9 @@ Thumbs.db
 
 #
 *.sqlite
+
+# IDE
+.idea
+
+# venv
+.venv
